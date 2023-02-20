@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
+# Machine-Learning-Projects major
 Internship projects on machine learning
